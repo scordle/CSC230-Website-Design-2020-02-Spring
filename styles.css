@@ -1,0 +1,24 @@
+/*
+    Author: Scott Cordle
+    Date:   05/20/2020
+*/
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2B3E42;
+    background-color: #D5E1DD;
+}
+
+body {
+    margin: 10px 25px;
+}
+
+header {
+    background-color: #F7F3E8;
+    color: #77BED2;
+}
+
+header h1, h3{
+    background-color: #F7F3E8;
+    color: #77BED2;
+}
